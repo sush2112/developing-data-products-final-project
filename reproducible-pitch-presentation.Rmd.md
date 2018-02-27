@@ -17,7 +17,7 @@ Introduction
 Application
 ========================================================
 
-- This application demonstrates Model-View-Controller (MVC) pattern as supported through Shiny Web App framework.An instance is up & running at  <https://mountain-lion.shinyapps.io/Course-Project/> and the source code can be found at <https://github.com/sush2112/developing-data-products-final-project>. 
+- This application demonstrates Model-View-Controller (MVC) pattern as supported through Shiny Web App framework.An instance is up & running at  <https://sush2112.shinyapps.io/Course-Project/> and the source code can be found at <https://github.com/sush2112/developing-data-products-final-project>. 
       
 - The Model is coded in order to lazily re-initialize while handling user event at the view-controller (sidebar widgets). Furthermore, the UI (view-controller) paramerters directly map to the underlying variables of the dataset/table.
 
